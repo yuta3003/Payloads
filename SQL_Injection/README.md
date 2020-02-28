@@ -10,11 +10,11 @@ Attempting to manipulate SQL queries may have goals including:
 
 ## Summary
 
-* [CheatSheet MSSQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MSSQL%20Injection.md)
-* [CheatSheet MySQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MySQL%20Injection.md)
-* [CheatSheet OracleSQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/OracleSQL%20Injection.md)
-* [CheatSheet PostgreSQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/PostgreSQL%20Injection.md)
-* [CheatSheet SQLite Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/SQLite%20Injection.md)
+* [CheatSheet MSSQL Injection](https://github.com/yuta0601/Payloads/blob/Develop/SQL_Injection/CheetSheet/MSSQL_Injection.md)
+* [CheatSheet MySQL Injection](https://github.com/yuta0601/Payloads/blob/Develop/SQL_Injection/CheetSheet/MySQL_Injection.md)
+* [CheatSheet OracleSQL Injection](https://github.com/yuta0601/Payloads/blob/Develop/SQL_Injection/CheetSheet/OracleSQL_Injection.md)
+* [CheatSheet PostgreSQL Injection](https://github.com/yuta0601/Payloads/blob/Develop/SQL_Injection/CheetSheet/PostgreSQL_Injection.md)
+* [CheatSheet SQLite Injection](https://github.com/yuta0601/Payloads/blob/Develop/SQL_Injection/CheetSheet/SQLite_Injection.md)
 * [CheatSheet Cassandra Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/Cassandra%20Injection.md)
 * [Entry point detection](#entry-point-detection)
 * [DBMS Identification](#dbms-identification)
