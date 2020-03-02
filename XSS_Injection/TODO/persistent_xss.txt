@@ -1,0 +1,11 @@
+# 入力欄などで使用
+# 以下例
+    # 正常
+        name: xxxxxx
+        detail: xxxxxx
+    # 異常
+        name: <script>alert('XSS')</script>
+        detail: <script>alert('XSS')</script>
+
+# 特殊文字がエスケープされずに表示されている
+# SQL Injectionが可能であることも...

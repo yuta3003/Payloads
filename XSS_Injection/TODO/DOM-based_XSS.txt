@@ -1,0 +1,16 @@
+# クライアント側でスクリプトからHTMLを作成する場合に使用される
+
+# ソース
+    document.cookie
+    document.URL
+    document.hash
+# シンク
+    document.write
+    innerHTML
+    location.href
+
+上記の機能を使う場合には注意
+
+
+192.168.1.1:8080    # 正常
+192.168.1.1:8000/#<script>alert('XSS')</script> # 異常
