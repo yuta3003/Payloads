@@ -191,6 +191,7 @@ Use CTRL+SHIFT+X to trigger the onclick event
 ```
 
 DOM XSS
+  クライアント側でスクリプトからHTMLを作成する場合に使用される
 
 ```javascript
 #"><img src=/ onerror=alert(2)>
