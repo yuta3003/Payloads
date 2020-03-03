@@ -190,7 +190,7 @@ XSS in Hidden input
 Use CTRL+SHIFT+X to trigger the onclick event
 ```
 
-DOM XSS (クライアント側でスクリプトからHTMLを作成する場合に使用される)
+DOM XSS (Being used in the case of assembling HTML from scrypt on the Client side.)
 
 ```javascript
 #"><img src=/ onerror=alert(2)>
