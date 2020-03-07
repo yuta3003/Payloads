@@ -25,7 +25,7 @@ class Fuzzer(object):
 
     def dump(self, fuzz, ret_code):
         data = str(ret_code) + ',' + fuzz + '\n'
-        f = open('dump.csv', a)
+        f = open('dump.csv', 'a')
         f.write(data)
         f.close()
 
