@@ -1,0 +1,7 @@
+GET /?user=$param HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+User-Agent: Mozilla/4.0
+Host: 127.0.0.1
+Proxy-Connection: Keep-Alive
+
